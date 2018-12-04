@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Security.Cryptography;
 
 namespace diBangManage
 {
@@ -15,6 +16,7 @@ namespace diBangManage
         public Form1()
         {
             InitializeComponent();
+            
         }
     }
 }
